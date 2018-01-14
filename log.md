@@ -56,3 +56,11 @@
 
 **Link to work:** [Repository](https://github.com/aadimator/mapbox-ar-unity-khoji)
 
+### Day 8: January 14, 2018
+
+**Today's Progress**: Worked on Lesson 1 of the Deep Learning course offered by fast.ai.
+
+**Thoughts:** It seems quite straightforward and easy to work with this fastai library. Will try to use it for some kaggle competitions.
+
+**Link to work:** [Repository](https://github.com/aadimator/fast.ai)
+
