@@ -24,3 +24,6 @@ Tried Gatsby and Hugo static site generators. https://twitter.com/aadimator/stat
 
 ### R1D7
 Created unity-mapbox-ar-khoji. Shows a marker at a hardcoded gps location. https://github.com/aadimator/mapbox-ar-unity-khoji
+
+### R1D8
+Worked on fast.ai Deep Learning Lesson 1. Created a resnet34 model for dogscats classification. https://github.com/aadimator/fast.ai
