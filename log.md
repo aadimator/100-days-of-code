@@ -64,3 +64,27 @@
 
 **Link to work:** [Repository](https://github.com/aadimator/fast.ai)
 
+### Day 9: January 15, 2018
+
+**Today's Progress**: Worked on dogs-vs-cats classifier. 
+
+**Thoughts:** Used fastai library to improve the accuracy of the model. It's very enjoyable and easy to try different models and parameters.
+
+**Link to work:** [Repository](https://github.com/aadimator/fast.ai)
+
+### Day 10: January 16, 2018
+
+**Today's Progress**: Improved the accuracy of dogscats model by fine-tuning and using data augmentation.
+
+**Thoughts:** Need to look up the **cycles** paper, the one that introduced the concept of SGDR, as I didn't understand it that well. 
+
+**Link to work:** [Repository](https://github.com/aadimator/fast.ai)
+
+### Day 11: January 17, 2018
+
+**Today's Progress**: Solved some exercises on Freecodecamp.
+
+**Thoughts:** My exams are due this week, so I will be busy there.
+
+**Link to work:** [Tweet](https://twitter.com/aadimator/status/953623500689993728)
+
