@@ -27,3 +27,13 @@ Created unity-mapbox-ar-khoji. Shows a marker at a hardcoded gps location. https
 
 ### R1D8
 Worked on fast.ai Deep Learning Lesson 1. Created a resnet34 model for dogscats classification. https://github.com/aadimator/fast.ai
+
+### R1D9
+Improved the accuracy of dogscats model. https://github.com/aadimator/fast.ai
+
+### R1D10
+Improved the accuracy of dogscats model by fine-tuning and using data augmentation. https://github.com/aadimator/fast.ai
+
+### R1D11
+Solved some exercises on Freecodecamp. https://twitter.com/aadimator/status/953623500689993728
+
