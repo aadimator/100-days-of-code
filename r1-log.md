@@ -37,3 +37,15 @@ Improved the accuracy of dogscats model by fine-tuning and using data augmentati
 ### R1D11
 Solved some exercises on Freecodecamp. https://twitter.com/aadimator/status/953623500689993728
 
+### R1D12
+Started working on Dog Breed Identification competition. https://github.com/aadimator/fast.ai
+
+### R1D13
+Analyzed the dog breed dataset and created an initial model. https://github.com/aadimator/fast.ai
+
+### R1D14
+Worked on Dog breed identification challenge. Solved a python coding challenge on exercism. https://twitter.com/aadimator/status/954769662222454784
+
+### R1D15
+Solved some exercises on Freecodecamp. Because of papers, couldn't dedicate much time to dog breed identification challenge. https://twitter.com/aadimator/status/955104746402181120
+
