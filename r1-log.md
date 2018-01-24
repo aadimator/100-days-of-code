@@ -52,5 +52,8 @@ Solved some exercises on Freecodecamp. Because of papers, couldn't dedicate much
 ### R1D16
 Improved the dogs breed identification model. https://github.com/aadimator/fast.ai
 
-### R1D15
+### R1D17
 Solved a couple of exercises on Freecodecamp. https://twitter.com/aadimator/status/955840944003305472
+
+### R1D18
+Solved some Freecodecamp exercises. https://twitter.com/aadimator/status/956172473430659072
