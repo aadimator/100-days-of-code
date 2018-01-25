@@ -57,3 +57,6 @@ Solved a couple of exercises on Freecodecamp. https://twitter.com/aadimator/stat
 
 ### R1D18
 Solved some Freecodecamp exercises. https://twitter.com/aadimator/status/956172473430659072
+
+### R1D18
+Solved a couple of Freecodecamp exercises. https://twitter.com/aadimator/status/956549341568819202
