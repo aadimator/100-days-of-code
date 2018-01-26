@@ -58,5 +58,8 @@ Solved a couple of exercises on Freecodecamp. https://twitter.com/aadimator/stat
 ### R1D18
 Solved some Freecodecamp exercises. https://twitter.com/aadimator/status/956172473430659072
 
-### R1D18
+### R1D19
 Solved a couple of Freecodecamp exercises. https://twitter.com/aadimator/status/956549341568819202
+
+### R1D20
+Created and deployed ghost blog on heroku. https://twitter.com/aadimator/status/956915405183963136
