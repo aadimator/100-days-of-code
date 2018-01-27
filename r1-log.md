@@ -63,3 +63,6 @@ Solved a couple of Freecodecamp exercises. https://twitter.com/aadimator/status/
 
 ### R1D20
 Created and deployed ghost blog on heroku. https://twitter.com/aadimator/status/956915405183963136
+
+### R1D21
+Added Portfolio cards to the ghost theme. https://twitter.com/aadimator/status/957255826393260032
