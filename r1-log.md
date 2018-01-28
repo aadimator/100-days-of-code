@@ -66,3 +66,6 @@ Created and deployed ghost blog on heroku. https://twitter.com/aadimator/status/
 
 ### R1D21
 Added Portfolio cards to the ghost theme. https://twitter.com/aadimator/status/957255826393260032
+
+### R1D22
+Solved some exercises on Freecodecamp. https://twitter.com/aadimator/status/957612453361307649
