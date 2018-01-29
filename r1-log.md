@@ -69,3 +69,6 @@ Added Portfolio cards to the ghost theme. https://twitter.com/aadimator/status/9
 
 ### R1D22
 Solved some exercises on Freecodecamp. https://twitter.com/aadimator/status/957612453361307649
+
+### R1D23
+Started working on fast.ai lesson 2. https://twitter.com/aadimator/status/957995916975333376
