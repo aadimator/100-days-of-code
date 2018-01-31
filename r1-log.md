@@ -72,3 +72,6 @@ Solved some exercises on Freecodecamp. https://twitter.com/aadimator/status/9576
 
 ### R1D23
 Started working on fast.ai lesson 2. https://twitter.com/aadimator/status/957995916975333376
+
+### R1D24
+Worked on Ghost theme development. https://twitter.com/aadimator/status/958687367275085824
