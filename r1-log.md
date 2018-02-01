@@ -75,3 +75,6 @@ Started working on fast.ai lesson 2. https://twitter.com/aadimator/status/957995
 
 ### R1D24
 Worked on Ghost theme development. https://twitter.com/aadimator/status/958687367275085824
+
+### R1D25
+Worked on Deep Learning Specialization. https://twitter.com/aadimator/status/959113393251737608
