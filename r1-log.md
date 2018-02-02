@@ -78,3 +78,6 @@ Worked on Ghost theme development. https://twitter.com/aadimator/status/95868736
 
 ### R1D25
 Worked on Deep Learning Specialization. https://twitter.com/aadimator/status/959113393251737608
+
+### R1D26
+Worked on Deep Learning Specialization as well as deploying ghost blog on AWS. https://twitter.com/aadimator/status/959470337313460228
