@@ -81,3 +81,6 @@ Worked on Deep Learning Specialization. https://twitter.com/aadimator/status/959
 
 ### R1D26
 Worked on Deep Learning Specialization as well as deploying ghost blog on AWS. https://twitter.com/aadimator/status/959470337313460228
+
+### R1D27
+Finally deployed Ghost blog on AWS and configured it to use SSL. https://twitter.com/aadimator/status/959769342513766400
